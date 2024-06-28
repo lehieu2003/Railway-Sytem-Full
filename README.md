@@ -6,55 +6,58 @@
 ---
 
 # Demo :movie_camera:
-### You will need to download Git and Node to run this project
+### Register Sceenshot
 ![image](https://github.com/lehieu2003/Railway-Sytem-Full/assets/127474151/5fb583eb-83ff-454f-a8dc-19802ea5c51c)
-### You will need to download Git and Node to run this project
-
+### Login Sceenshot and Chatbox
 ![image](https://github.com/lehieu2003/Railway-Sytem-Full/assets/127474151/b2c4176f-2cf4-4d1c-97fc-beb087b35bf0)
-### You will need to download Git and Node to run this project
+### Home Sceenshot
 
 ![image](https://github.com/lehieu2003/Railway-Sytem-Full/assets/127474151/d57152ff-dad1-4254-baa8-52e96e3d905f)
-### You will need to download Git and Node to run this project
+### Find routes Sceenshot
+
 
 ![image](https://github.com/lehieu2003/Railway-Sytem-Full/assets/127474151/bf1d8896-3813-426c-a6f6-6fec19f897e5)
-### You will need to download Git and Node to run this project
+###  Discount and Meaning of Symbols Sceenshot
 
 ![image](https://github.com/lehieu2003/Railway-Sytem-Full/assets/127474151/7f3e3aca-a036-4a63-9e0e-fa5d4786cc40)
-### You will need to download Git and Node to run this project
+### Fill Information form Sceenshot
 
 ![image](https://github.com/lehieu2003/Railway-Sytem-Full/assets/127474151/93a5c25e-275f-4f79-affd-dcb7c0212815)
-### You will need to download Git and Node to run this project
+### Confirm Information Sceenshot
 
 ![image](https://github.com/lehieu2003/Railway-Sytem-Full/assets/127474151/3bd983d7-3512-48c4-a1ed-fbc0185d620c)
-### You will need to download Git and Node to run this project
+### VNP Payment Sceenshot
 
 ![image](https://github.com/lehieu2003/Railway-Sytem-Full/assets/127474151/70ca4b95-930b-46e3-994e-3ff5adfd35f3)
-### You will need to download Git and Node to run this project
-
+### Done page Sceenshot
 ![image](https://github.com/lehieu2003/Railway-Sytem-Full/assets/127474151/a6c260df-c452-4667-923a-5da3880a7fcf)
-### You will need to download Git and Node to run this project
+### Check ticket information Sceenshot
 
 ![image](https://github.com/lehieu2003/Railway-Sytem-Full/assets/127474151/460dea8f-4434-439c-93b6-069b35ff48e3)
-### You will need to download Git and Node to run this project
+### List of ticket Sceenshot
 
 ![image](https://github.com/lehieu2003/Railway-Sytem-Full/assets/127474151/f81e98f4-99be-4dae-8d9a-a899d9e7667a)
 
-### You will need to download Git and Node to run this project
+### Admin dashboard Sceenshot
+
 ![image](https://github.com/lehieu2003/Railway-Sytem-Full/assets/127474151/b9a34f37-0b0c-41fa-865b-d8276ec4b8dd)
-### You will need to download Git and Node to run this project
+### User Management Sceenshot
 
 ![image](https://github.com/lehieu2003/Railway-Sytem-Full/assets/127474151/8c383f35-9dc3-4b7f-b43f-e477d90c294f)
 
-### You will need to download Git and Node to run this project
+### Edit User Management Sceenshot
+
 
 ![image](https://github.com/lehieu2003/Railway-Sytem-Full/assets/127474151/06cff788-6fcd-4c31-a2fb-af346fad11f8)
-### You will need to download Git and Node to run this project
+### Train Management Sceenshot
 
 ![image](https://github.com/lehieu2003/Railway-Sytem-Full/assets/127474151/d2dc6c8f-58c3-4d04-bccf-849510a821fb)
-### You will need to download Git and Node to run this project
+### Edit Train Management Sceenshot
+
 
 ![image](https://github.com/lehieu2003/Railway-Sytem-Full/assets/127474151/47906c14-1dab-4795-a13b-d7711199398e)\
-### You will need to download Git and Node to run this project
+### Show Detailed Ticket Sceenshot
+
 
 ![image](https://github.com/lehieu2003/Railway-Sytem-Full/assets/127474151/5b283f57-4891-4e9a-a682-d24503fe348a)
 
