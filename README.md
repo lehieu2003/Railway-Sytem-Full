@@ -46,19 +46,15 @@
 ![image](https://github.com/lehieu2003/Railway-Sytem-Full/assets/127474151/8c383f35-9dc3-4b7f-b43f-e477d90c294f)
 
 ### Edit User Management Sceenshot
+![image](https://github.com/lehieu2003/Railway-Sytem-Full/assets/127474151/9ef5240f-3c82-46ba-8666-3fecc64668f3)
 
-
-![image](https://github.com/lehieu2003/Railway-Sytem-Full/assets/127474151/06cff788-6fcd-4c31-a2fb-af346fad11f8)
 ### Train Management Sceenshot
-
 ![image](https://github.com/lehieu2003/Railway-Sytem-Full/assets/127474151/d2dc6c8f-58c3-4d04-bccf-849510a821fb)
 ### Edit Train Management Sceenshot
 
 
 ![image](https://github.com/lehieu2003/Railway-Sytem-Full/assets/127474151/47906c14-1dab-4795-a13b-d7711199398e)\
 ### Show Detailed Ticket Sceenshot
-
-
 ![image](https://github.com/lehieu2003/Railway-Sytem-Full/assets/127474151/5b283f57-4891-4e9a-a682-d24503fe348a)
 
 
